@@ -1,0 +1,9 @@
+C:\Users\Adam\Desktop\hotel\hotel\bin\Debug\hotel.exe.config
+C:\Users\Adam\Desktop\hotel\hotel\bin\Debug\hotel.exe
+C:\Users\Adam\Desktop\hotel\hotel\bin\Debug\hotel.pdb
+C:\Users\Adam\Desktop\hotel\hotel\obj\Debug\hotel.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\hotel\hotel\obj\Debug\hotel.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\hotel\hotel\obj\Debug\hotel.exe
+C:\Users\Adam\Desktop\hotel\hotel\obj\Debug\hotel.pdb
+C:\Users\Adam\Desktop\hotel\hotel\bin\Debug\hotel.exe.CodeAnalysisLog.xml
+C:\Users\Adam\Desktop\hotel\hotel\bin\Debug\hotel.exe.lastcodeanalysissucceeded

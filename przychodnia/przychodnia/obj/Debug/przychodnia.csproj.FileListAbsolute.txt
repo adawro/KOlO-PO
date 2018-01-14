@@ -1,0 +1,7 @@
+C:\Users\Adam\Desktop\przychodnia\przychodnia\bin\Debug\przychodnia.exe.config
+C:\Users\Adam\Desktop\przychodnia\przychodnia\bin\Debug\przychodnia.exe
+C:\Users\Adam\Desktop\przychodnia\przychodnia\bin\Debug\przychodnia.pdb
+C:\Users\Adam\Desktop\przychodnia\przychodnia\obj\Debug\przychodnia.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\przychodnia\przychodnia\obj\Debug\przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\przychodnia\przychodnia\obj\Debug\przychodnia.exe
+C:\Users\Adam\Desktop\przychodnia\przychodnia\obj\Debug\przychodnia.pdb

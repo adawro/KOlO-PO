@@ -1,0 +1,14 @@
+C:\Users\adamw\Desktop\Bibliotek\Bibliotek\obj\Debug\Bibliotek.csprojResolveAssemblyReference.cache
+C:\Users\adamw\Desktop\Bibliotek\Bibliotek\obj\Debug\Bibliotek.csproj.CoreCompileInputs.cache
+C:\Users\adamw\Desktop\Bibliotek\Bibliotek\bin\Debug\Bibliotek.exe.config
+C:\Users\adamw\Desktop\Bibliotek\Bibliotek\bin\Debug\Bibliotek.exe
+C:\Users\adamw\Desktop\Bibliotek\Bibliotek\bin\Debug\Bibliotek.pdb
+C:\Users\adamw\Desktop\Bibliotek\Bibliotek\obj\Debug\Bibliotek.exe
+C:\Users\adamw\Desktop\Bibliotek\Bibliotek\obj\Debug\Bibliotek.pdb
+C:\Users\Adam\Desktop\Bibliotek\Bibliotek\bin\Debug\Bibliotek.exe.config
+C:\Users\Adam\Desktop\Bibliotek\Bibliotek\bin\Debug\Bibliotek.exe
+C:\Users\Adam\Desktop\Bibliotek\Bibliotek\bin\Debug\Bibliotek.pdb
+C:\Users\Adam\Desktop\Bibliotek\Bibliotek\obj\Debug\Bibliotek.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Bibliotek\Bibliotek\obj\Debug\Bibliotek.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Bibliotek\Bibliotek\obj\Debug\Bibliotek.exe
+C:\Users\Adam\Desktop\Bibliotek\Bibliotek\obj\Debug\Bibliotek.pdb
